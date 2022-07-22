@@ -2,4 +2,4 @@
 
 <p>Авторизация в личном кабинете и сохранение данных в localStorage</p>
 
-<img src="http://127.0.0.1:5500/img/palki-skalki/preview.jpg">
+<img src="https://kartinkin.net/uploads/posts/2021-03/thumbs/1617152171_5-p-sushi-pitstsa-krasivo-5.jpg" alt="delivery">
