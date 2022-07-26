@@ -1,4 +1,4 @@
-# localStorage-JS-
+# Authorization-JS
 
 <p>Авторизация в личном кабинете и сохранение данных в localStorage</p>
 
